@@ -1,0 +1,11 @@
+
+.gradle
+.vscode
+.idea
+bin
+build
+lambda-aws-resources/build
+.terraform
+terraform.auto.tfvars
+local
+default.json
